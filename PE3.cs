@@ -31,9 +31,7 @@ class PE3
                 }
                 if (i % p == 0) { primes.Remove(i); break; }
             }
-            //Console.WriteLine(i);
         }
-        //ListPrinter(primes); Console.WriteLine("");
         ListPrinter(primeMultiples);
         return primeMultiples[primeMultiples.Count -1];
     }
