@@ -12,3 +12,4 @@ C:\Users\Asus\Desktop\Umut\Kodlama\PROJECT EULER\PROJECT EULER\obj\Debug\net8.0\
 C:\Users\Asus\Desktop\Umut\Kodlama\PROJECT EULER\PROJECT EULER\obj\Debug\net8.0\PROJECT EULER.pdb
 C:\Users\Asus\Desktop\Umut\Kodlama\PROJECT EULER\PROJECT EULER\obj\Debug\net8.0\PROJECT EULER.genruntimeconfig.cache
 C:\Users\Asus\Desktop\Umut\Kodlama\PROJECT EULER\PROJECT EULER\obj\Debug\net8.0\ref\PROJECT EULER.dll
+C:\Users\Asus\Desktop\Umut\Kodlama\PROJECT EULER\PROJECT EULER\obj\Debug\net8.0\PROJECT EULER.sourcelink.json

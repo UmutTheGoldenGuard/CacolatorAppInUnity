@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 class PE4
 {
-    public static void Main()
+    public static void Main4()
     {
         CalculateLargest();
         //Console.WriteLine(CheckPalindrom(999));
@@ -42,7 +42,6 @@ class PE4
         char[] charArray = ntext.ToCharArray();
         Array.Reverse(charArray);
         String revText = new String(charArray);
-        Console.WriteLine(revText);
         if (ntext == revText)
         {
             return true; 
